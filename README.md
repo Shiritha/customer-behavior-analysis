@@ -6,57 +6,70 @@ The objective is to analyze customer behavior data, uncover meaningful insights,
 
 # 📂 Dataset
 Type: Customer Behavior Dataset
-Format: CSV
+
 Contents Include:
-Customer demographics
-Purchase behavior
-Spending patterns
-Product and transaction details
+
+- Customer demographics
+
+- Purchase behavior
+
+- Spending patterns
+
+- Product and transaction details
+
 The dataset is first processed using Python, then stored and analyzed using PostgreSQL.
 
 # 🛠 Tools & Technologies
-Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
-PostgreSQL – Database storage and SQL querying
-Power BI – Interactive dashboard and data visualization
-Jupyter Notebook – Analysis and documentation
+- Python – Data loading, cleaning, and Exploratory Data Analysis (EDA)
+
+- PostgreSQL – Database storage and SQL querying
+
+- Power BI – Interactive dashboard and data visualization
+
+- Jupyter Notebook – Analysis and documentation
+
 Libraries Used: Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, Psycopg2
 
 # 🔄 Project Workflow
-1. Data Loading
-Imported CSV data into Python using Pandas
-2. Exploratory Data Analysis (EDA)
-Reviewed dataset structure and summary statistics
-Identified missing values and outliers
-Analyzed key trends and distributions
-3. Data Cleaning
-Handled missing and inconsistent values
-Standardized column formats
-Prepared data for database storage
-4. SQL Analysis (PostgreSQL)
-Created tables and inserted cleaned data
-Wrote SQL queries to analyze:
-Customer spending patterns
-Popular products
-Purchase frequency
-Revenue trends
-5. Dashboard Development (Power BI)
-Connected Power BI to PostgreSQL
-Built interactive visuals and KPIs
-Designed a clean, business-focused dashboard
+1. Data Loading:
+   - Imported CSV data into Python using Pandas
+
+2. Exploratory Data Analysis (EDA):
+   - Reviewed dataset structure and summary statistics
+   - Identified missing values and outliers
+   - Analyzed key trends and distributions
+     
+3. Data Cleaning:
+   - Handled missing and inconsistent values
+   - Standardized column formats
+   - Prepared data for database storage
+     
+4. SQL Analysis (PostgreSQL):
+   - Created tables and inserted cleaned data
+   - Wrote SQL queries to analyze:
+   - Customer spending patterns
+   - Popular products
+   - Purchase frequency
+   - Revenue trends
+     
+5. Dashboard Development (Power BI):
+   - Connected Power BI to PostgreSQL
+   - Built interactive visuals and KPIs
+   - Designed a clean, business-focused dashboard
 
 # 📈 Power BI Dashboard
 The dashboard provides:
-Key Performance Indicators (KPIs)
-Customer segmentation insights
-Sales and revenue trends
-Product performance analysis
+- Key Performance Indicators (KPIs)
+- Customer segmentation insights
+- Sales and revenue trends
+- Product performance analysis
 Users can interact with filters to explore insights dynamically and support decision-making.
 
 # ✅ Key Results & Insights
-Identified high-value customer segments
-Highlighted top-performing products
-Discovered customer spending and purchase trends
-Delivered insights through clear, interactive visuals
+- Identified high-value customer segments
+- Highlighted top-performing products
+- Discovered customer spending and purchase trends
+- Delivered insights through clear, interactive visuals
 
 # ▶️ How to Run the Project
 1.	Clone this repository

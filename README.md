@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project – Customer Behavior Analysis
+# Data Analytics Project – Customer Behavior Analysis
 
 # 📌 Overview
 This project demonstrates an end-to-end Data Analytics workflow, covering data extraction, exploration, cleaning, SQL analysis, and visualization.

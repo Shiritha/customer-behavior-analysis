@@ -73,13 +73,6 @@ Users can interact with filters to explore insights dynamically and support deci
 - Discovered customer spending and purchase trends
 - Delivered insights through clear, interactive visuals
 
-# ▶️ How to Run the Project
-1.	Clone this repository
-2.	Install required Python libraries:
-            pip install pandas numpy matplotlib seaborn sqlalchemy psycopg2
-3.	Open and run the Jupyter Notebook for EDA and data cleaning
-4.	Set up PostgreSQL and execute the provided SQL queries
-5.	Open the Power BI file to explore the dashboard
 
 # 🎯 Conclusion
 This project showcases my ability to manage the complete data analytics lifecycle—from raw data to actionable insights—using industry-standard tools. It reflects practical skills relevant to Data Analyst roles, including Python, SQL, and Power BI.

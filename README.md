@@ -65,7 +65,7 @@ The dashboard provides:
 - Product performance analysis
 Users can interact with filters to explore insights dynamically and support decision-making.
 
-<img width="867" height="486" alt="Screenshot 2026-04-27 143742" src="https://github.com/user-attachments/assets/af7e6014-0092-4160-924b-0f52f95a2efd" />
+<img width="868" height="487" alt="Screenshot 2026-05-06 122557" src="https://github.com/user-attachments/assets/3e643d03-0dc0-4990-8df3-6248042e5b4d" />
 
 # ✅ Key Results & Insights
 - Identified high-value customer segments
